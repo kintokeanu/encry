@@ -1,4 +1,4 @@
-.1 caesar cipher
+1. caesar cipher
 2. functions to implement encryption and decryption algorithms
 3. prompt for plaintext message 
 4. main function to prompt for message
